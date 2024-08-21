@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>722209382173-k2bc41t43kbr02jmd6df40j3s10bdhcc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.722209382173-k2bc41t43kbr02jmd6df40j3s10bdhcc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBGsNPc3jjAYMerOOqbIUrHfdCLzA_GwlQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>722209382173</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.beyondwash</string>
+	<key>PROJECT_ID</key>
+	<string>beyondwash2024-63e69</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beyondwash2024-63e69.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:722209382173:ios:a384b9b32c39cb61c40bf4</string>
+</dict>
+</plist>
